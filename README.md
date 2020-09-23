@@ -27,6 +27,10 @@ I will be pulling in 2016 and 2017 year's Airbnb data for Boston and Seattle and
 
 There are 3 notebooks available here to showcase work related to the above questions.  Each of the notebooks is exploratory in searching through the data pertaining to the questions showcased by the notebook title.  Markdown cells were used to assist in walking through the thought process for individual steps.  
 
+1. Airbnb data first look.ipynb
+2. Airbnb data - Extraction and Transformation.ipynb
+3. Airbnb Visualization.ipynb
+
 The main findings of the code can be found at the post available [here](https://medium.com/@vijay2035/airbnb-data-analysis-boston-or-seattle-5c705130d3d7).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
