@@ -27,11 +27,7 @@ I will be pulling in 2016 and 2017 year's Airbnb data for Boston and Seattle and
 
 There are 3 notebooks available here to showcase work related to the above questions.  Each of the notebooks is exploratory in searching through the data pertaining to the questions showcased by the notebook title.  Markdown cells were used to assist in walking through the thought process for individual steps.  
 
-There is an additional `.py` file that runs the necessary code to obtain the final model used to predict salary.
-
-## Results<a name="results"></a>
-
-The main findings of the code can be found at the post available [here](https://medium.com/@josh_2774/how-do-you-become-a-developer-5ef1c1c68711).
+The main findings of the code can be found at the post available [here](https://medium.com/@vijay2035/airbnb-data-analysis-boston-or-seattle-5c705130d3d7).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
